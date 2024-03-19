@@ -33,3 +33,10 @@ img{
 #Contact{
     float:right;
 }
+button{
+    padding-right: 16px;
+    padding-left: 16px;
+    text-shadow: grey;
+    color:blue;
+
+}
