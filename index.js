@@ -1,4 +1,4 @@
 function clickMe(){
-    const WelcomeMessage= prompt("Maurine, welcomes you to this page.")
+    const WelcomeMessage= alert("Maurine, welcomes you to this page.")
     console.log(WelcomeMessage);
 }
